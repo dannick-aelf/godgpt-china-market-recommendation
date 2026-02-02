@@ -47,7 +47,7 @@ const translations: Record<Language, Record<string, string>> = {
     'option1.title': 'Primary / Formal Brand Name',
     
     // Option 2
-    'option2.badge': 'Gen-Z & app-forward',
+    'option2.badge': 'Modern & app-forward',
     'option2.title': 'Consumer / Friendly Brand Name',
     
     // Option 3
@@ -67,7 +67,7 @@ const translations: Record<Language, Record<string, string>> = {
     'summary.badge.best': 'Best Overall',
     'summary.badge.premium': 'Premium',
     'summary.badge.safe': 'Safe',
-    'summary.badge.genZ': 'Gen-Z',
+    'summary.badge.genZ': 'Modern',
     'summary.badge.consumer': 'Consumer',
     'summary.ourPick': 'Our Recommendation',
     
@@ -114,7 +114,7 @@ const translations: Record<Language, Record<string, string>> = {
     'option1.title': '主要/正式品牌名称',
     
     // Option 2
-    'option2.badge': 'Z世代与应用导向',
+    'option2.badge': '现代与应用导向',
     'option2.title': '消费者/友好品牌名称',
     
     // Option 3
@@ -134,7 +134,7 @@ const translations: Record<Language, Record<string, string>> = {
     'summary.badge.best': '最佳整体',
     'summary.badge.premium': '高端',
     'summary.badge.safe': '安全',
-    'summary.badge.genZ': 'Z世代',
+    'summary.badge.genZ': '现代',
     'summary.badge.consumer': '消费者',
     'summary.ourPick': '我们的推荐',
     

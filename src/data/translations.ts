@@ -33,7 +33,7 @@ export const getTranslatedSlides = (language: Language) => {
       'option1.market.best.3': 'You want the most "correct" name linguistically',
       
       // Option 2
-      'option2.badge': 'Gen-Z & app-forward',
+      'option2.badge': 'Modern & app-forward',
       'option2.title': 'Consumer / Friendly Brand Name',
       'option2.meaning.char1': '戈: Phonetic',
       'option2.meaning.char2': '迪: Guide, progress, to lead forward',
@@ -46,7 +46,7 @@ export const getTranslatedSlides = (language: Language) => {
       'option2.appstore.3': 'Strong fit for AI assistants / chat apps',
       'option2.appstore.4': 'Friendly to younger users',
       'option2.appstore.warning': 'Slightly less "authoritative" than 戈德',
-      'option2.market.positioning': 'Gen-Z / Consumer / App-native',
+      'option2.market.positioning': 'Modern / Consumer / App-native',
       'option2.market.works.1': 'Daily-use AI companion',
       'option2.market.works.2': 'Conversational AI',
       'option2.market.works.3': 'Emotional or reflective interactions',
@@ -94,7 +94,7 @@ export const getTranslatedSlides = (language: Language) => {
       'summary.comparison.bestFor2.1': 'Adoption',
       'summary.comparison.bestFor2.2': 'Friendliness',
       'summary.comparison.bestFor2.3': 'Lower barrier to use',
-      'summary.comparison.tone2': 'Gen-Z, app-native, companion-like',
+      'summary.comparison.tone2': 'Modern, app-native, companion-like',
       'summary.comparison.positioning3': 'Concept / Philosophy',
       'summary.comparison.bestFor3.1': 'Differentiation',
       'summary.comparison.bestFor3.2': 'Emotional connection',
@@ -132,7 +132,7 @@ export const getTranslatedSlides = (language: Language) => {
       'option1.market.best.3': '您需要语言上最"正确"的名称',
       
       // Option 2
-      'option2.badge': 'Z世代与应用导向',
+      'option2.badge': '现代与应用导向',
       'option2.title': '消费者/友好品牌名称',
       'option2.meaning.char1': '戈: 音译',
       'option2.meaning.char2': '迪: 引导、进步、向前引领',
@@ -145,7 +145,7 @@ export const getTranslatedSlides = (language: Language) => {
       'option2.appstore.3': '非常适合AI助手/聊天应用',
       'option2.appstore.4': '对年轻用户友好',
       'option2.appstore.warning': '比戈德略微缺乏"权威性"',
-      'option2.market.positioning': 'Z世代/消费者/应用原生',
+      'option2.market.positioning': '现代/消费者/应用原生',
       'option2.market.works.1': '日常使用的AI伙伴',
       'option2.market.works.2': '对话式AI',
       'option2.market.works.3': '情感或反思性互动',
@@ -193,7 +193,7 @@ export const getTranslatedSlides = (language: Language) => {
       'summary.comparison.bestFor2.1': '采用率',
       'summary.comparison.bestFor2.2': '友好性',
       'summary.comparison.bestFor2.3': '降低使用障碍',
-      'summary.comparison.tone2': 'Z世代、应用原生、伙伴式',
+      'summary.comparison.tone2': '现代、应用原生、伙伴式',
       'summary.comparison.positioning3': '概念/理念',
       'summary.comparison.bestFor3.1': '差异化',
       'summary.comparison.bestFor3.2': '情感连接',

@@ -168,7 +168,7 @@ export const slides: Slide[] = [
     chineseCharacters: '戈迪',
     pinyin: 'Gē Dí',
     statusBadge: {
-      text: 'Gen-Z & app-forward',
+      text: 'Modern & app-forward',
       variant: 'gen-z',
     },
     title: 'Consumer / Friendly Brand Name',
@@ -259,7 +259,7 @@ export const slides: Slide[] = [
       sections: [
         {
           type: 'text',
-          items: ['Gen-Z / Consumer / App-native'],
+          items: ['Modern / Consumer / App-native'],
         },
         {
           type: 'text',

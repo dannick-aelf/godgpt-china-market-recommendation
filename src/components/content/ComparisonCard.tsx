@@ -54,7 +54,7 @@ export const ComparisonCard: React.FC<ComparisonCardProps> = ({
             )}
             {optionNumber === 2 && (
               <>
-                <StatusBadge text={language === 'en' ? 'Gen-Z' : 'Z世代'} variant="gen-z" />
+                <StatusBadge text={language === 'en' ? 'Modern' : '现代'} variant="gen-z" />
                 <StatusBadge text={language === 'en' ? 'Consumer' : '消费者'} variant="consumer" />
               </>
             )}
