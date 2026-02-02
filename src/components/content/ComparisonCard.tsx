@@ -33,14 +33,14 @@ export const ComparisonCard: React.FC<ComparisonCardProps> = ({
       transition={{ duration: 0.4, delay }}
       className="relative"
     >
-      {optionNumber === 1 && (
+      {optionNumber === 2 && (
         <div className="absolute -top-2 left-1/2 -translate-x-1/2 z-10">
           <div className="inline-flex items-center gap-1 h-6 px-2 rounded-sm border border-[#5755EE] bg-[#5755EE] text-white text-xs font-medium">
             {t('summary.ourPick')}
           </div>
         </div>
       )}
-      <Card highlighted={optionNumber === 1}>
+      <Card highlighted={optionNumber === 2}>
         <div className="space-y-2 py-2">
           <div className="scale-90 origin-top">
             <ChineseTitle characters={chineseCharacters} pinyin={pinyin} />

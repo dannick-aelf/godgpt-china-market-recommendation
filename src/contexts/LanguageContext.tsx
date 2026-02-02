@@ -63,10 +63,12 @@ const translations: Record<Language, Record<string, string>> = {
     // Summary
     'summary.title': 'Summary & Recommendation',
     'summary.recommended': 'Recommended Choice',
-    'summary.recommended.desc': 'The best overall choice for credibility, longevity, and linguistic correctness',
+    'summary.recommended.desc': 'The best choice for adoption, friendliness, and lower barrier to use',
     'summary.badge.best': 'Best Overall',
     'summary.badge.premium': 'Premium',
     'summary.badge.safe': 'Safe',
+    'summary.badge.genZ': 'Gen-Z',
+    'summary.badge.consumer': 'Consumer',
     'summary.ourPick': 'Our Recommendation',
     
     // Thank You
@@ -128,10 +130,12 @@ const translations: Record<Language, Record<string, string>> = {
     // Summary
     'summary.title': '总结与推荐',
     'summary.recommended': '推荐选择',
-    'summary.recommended.desc': '在可信度、持久性和语言正确性方面的最佳整体选择',
+    'summary.recommended.desc': '在采用率、友好性和降低使用障碍方面的最佳选择',
     'summary.badge.best': '最佳整体',
     'summary.badge.premium': '高端',
     'summary.badge.safe': '安全',
+    'summary.badge.genZ': 'Z世代',
+    'summary.badge.consumer': '消费者',
     'summary.ourPick': '我们的推荐',
     
     // Thank You

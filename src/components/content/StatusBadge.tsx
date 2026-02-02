@@ -18,15 +18,15 @@ export const StatusBadge: React.FC<StatusBadgeProps> = ({
 }) => {
   const variantClasses = {
     best: 'bg-[#5755EE] text-white border-[#5755EE]',
-    'gen-z': 'bg-transparent text-[#5755EE] border-[#5755EE]',
+    'gen-z': 'bg-[#5755EE] text-white border-[#5755EE]',
     philosophy: 'bg-[#5755EE] text-white border-[#5755EE]',
-    safe: 'bg-transparent text-[#5755EE] border-[#5755EE]',
-    compliant: 'bg-transparent text-[#5755EE] border-[#5755EE]',
+    safe: 'bg-[#5755EE] text-white border-[#5755EE]',
+    compliant: 'bg-[#5755EE] text-white border-[#5755EE]',
     premium: 'bg-[#5755EE] text-white border-[#5755EE]',
-    consumer: 'bg-transparent text-[#5755EE] border-[#5755EE]',
+    consumer: 'bg-[#5755EE] text-white border-[#5755EE]',
     concept: 'bg-[#5755EE] text-white border-[#5755EE]',
-    neutral: 'bg-transparent text-[#9b9b9b] border-[#454545]',
-    common: 'bg-transparent text-[#5755EE] border-[#5755EE]',
+    neutral: 'bg-[#5755EE] text-white border-[#5755EE]',
+    common: 'bg-[#5755EE] text-white border-[#5755EE]',
   };
 
   const defaultIcons = {

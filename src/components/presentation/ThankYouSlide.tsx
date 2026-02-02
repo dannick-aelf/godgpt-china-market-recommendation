@@ -61,12 +61,12 @@ export const ThankYouSlide: React.FC = () => {
             >
               <div className="flex flex-col items-center gap-2 text-center">
                 <div className="scale-75 origin-center">
-                  <ChineseTitle characters="戈德" pinyin="Gē Dé" />
+                  <ChineseTitle characters="戈迪" pinyin="Gē Dí" />
                 </div>
                 <div className="flex items-center justify-center gap-1.5 flex-wrap">
                   <StatusBadge text={t('summary.badge.best')} variant="best" />
-                  <StatusBadge text={t('summary.badge.premium')} variant="premium" />
-                  <StatusBadge text={t('summary.badge.safe')} variant="safe" />
+                  <StatusBadge text={t('summary.badge.genZ')} variant="gen-z" />
+                  <StatusBadge text={t('summary.badge.consumer')} variant="consumer" />
                 </div>
                 <p className="text-small text-[#ececec] leading-relaxed mt-1">
                   {t('summary.recommended.desc')}
