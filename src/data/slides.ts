@@ -81,7 +81,7 @@ export const slides: Slide[] = [
           type: 'bullet-list',
           items: [
             '"迪" is widely used in: Apps, Youth brands, Lifestyle tech',
-            'Lighter tone than 德',
+            'Light, approachable tone',
             'Feels approachable and companion-like',
           ],
         },
